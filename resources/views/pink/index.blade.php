@@ -3,3 +3,8 @@
 @section('navigation')
 	{!! $navigation !!}
 @endsection
+
+
+@section('slider')
+	{!! $sliders !!}
+@endsection
