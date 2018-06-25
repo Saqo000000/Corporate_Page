@@ -8,9 +8,5 @@ class PortfoliosRepository extends Repository{
 	}
 }
 
-
-
-
-
 ?>
 
